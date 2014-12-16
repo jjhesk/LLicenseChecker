@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Titillium Web'), local('TitilliumWeb-Regular'), url(images/7XUFZ5tgS-tD6QamInJTcYp67VRGBZnLJtqE-R4vad8.woff) format('woff');
+}
+.resulttxt{
+    color: #C1D72E;
+    font-size: 65px;
+    text-align: center;
+    text-shadow: 0 2px 0 #384006;
+	font-family: tahoma;
+}
