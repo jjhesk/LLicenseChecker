@@ -1,5 +1,5 @@
 {
-"version" : "3.5",
-"details_url" : "http://demo.arb4host.net/features/",
-"download_url" : "http://demo.arb4host.net/tp_updates/v35_tkeIKqFKvV2bp/toppress.zip"
+"version" : "3.5",  // change to the template version of your theme
+"details_url" : "http://www.example.com/features/", // the theme details page
+"download_url" : "http://www.example.com/" // the upgradable zip file
 }
