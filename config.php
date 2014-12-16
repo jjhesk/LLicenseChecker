@@ -1,10 +1,10 @@
 <?php
 $server_name = "localhost";
-$db_username = "root";
-$db_password = "123456";
-$db_name = "lcn";
+$db_username = "db_user";
+$db_password = "db_pass";
+$db_name = "db_name";
 
-$whmcs_url = "https://cp.arb4host.net/adcp/";
+$whmcs_url = "Your WHMCS System URL If You Use";
 $sitename = "Licenses Manager";
 
 $connection=mysql_connect($server_name,$db_username,$db_password);
