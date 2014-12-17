@@ -4,5 +4,7 @@ LLicenseChecker (MIT)
 The server side license checker developed Lotfy
 
 Source page please also visit: http://jjhesk.github.io/LLicenseChecker
+
 Added to project folder by Hesk
+
 Author: Lotfy
